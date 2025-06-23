@@ -435,10 +435,7 @@ h6 {
   position: absolute;
   top: 15px;
   right: 15px;
-  font-size: 28px;
-  color: var(--nav-color);
   z-index: 10001;
-  cursor: pointer;
 }
 
   .navmenu {
